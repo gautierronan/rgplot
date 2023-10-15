@@ -1,0 +1,2 @@
+# rgstyle
+Custom matplotlib style
