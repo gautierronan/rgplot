@@ -22,8 +22,7 @@ plt.title("Sample plot with `rgstyle`")
 plt.legend((r"$r = 0$", r"$r = 1$", r"$r = 2$", r"$r = 3$", r"$r = 4$"))
 plt.show()
 ```
-
-![sampleplot_rgstyle](https://github.com/gautierronan/rgstyle/assets/25346881/c14e390a-4e84-4db8-973c-1f334a5ce3c3)
+![sampleplot_rgstyle](https://github.com/gautierronan/rgstyle/assets/25346881/782dc355-f50e-4d61-aaec-2766215cbb6e)
 
 ## Installation
 ```
